@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**rentianya0929/rentianya0929** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hello, traveler.
 
-Here are some ideas to get you started:
+你发现了这个神秘页面，但我还在加载中…
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```js
+while (!inspired) {
+  scroll memes;
+  drink coffee;
+}
+🧩 Projects? 有，偶尔更新。
+🧠 技能？还在进化中。
+🌀 目标？活着，开心，写好一点点代码。
+
+“Code like nobody's watching. Because其实真的没人看。”
+
